@@ -83,7 +83,7 @@ def classify_audio(audio_file):
         os.unlink(wav_file)  # Remove the temp file
 
 # Page title and subtitle
-st.markdown("<h1 class='main-title'>🎵 Music Genre Classifier</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>🎵 Music Genre Classification</h1>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>CNN By Deep Learning</p>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>Upload a music file and let AI detect its genre!</p>", unsafe_allow_html=True)
 
