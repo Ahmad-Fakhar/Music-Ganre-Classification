@@ -10,7 +10,6 @@ import soundfile as sf
 
 # Set page config
 st.set_page_config(page_title="🎵 Music Genre Classification", layout="wide")
-st.subheader("CNN By Deep Learning")
 # Custom CSS for UI
 st.markdown("""
 <style>
@@ -22,6 +21,12 @@ st.markdown("""
         text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
     }
     .sub-title {
+        font-size: 1.5rem;
+        color: #191414;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+        .sub-title {
         font-size: 1.5rem;
         color: #191414;
         text-align: center;
@@ -79,6 +84,7 @@ def classify_audio(audio_file):
 
 # Page title and subtitle
 st.markdown("<h1 class='main-title'>🎵 Music Genre Classifier</h1>", unsafe_allow_html=True)
+st.markdown("<p class='sub-title'>CNN By Deep Learning</p>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>Upload a music file and let AI detect its genre!</p>", unsafe_allow_html=True)
 
 # Sidebar with model and dataset information
