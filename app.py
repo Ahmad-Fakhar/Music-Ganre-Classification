@@ -26,12 +26,6 @@ st.markdown("""
         text-align: center;
         margin-bottom: 2rem;
     }
-        .sub-title {
-        font-size: 1.5rem;
-        color: #191414;
-        text-align: center;
-        margin-bottom: 2rem;
-    }
     .stAudio {
         margin: 2rem auto;
         display: block;
