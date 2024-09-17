@@ -9,8 +9,8 @@ import os
 import soundfile as sf
 
 # Set page config
-st.set_page_config(page_title="🎵 Music Genre Classifier", layout="wide")
-
+st.set_page_config(page_title="🎵 Music Genre Classification", layout="wide")
+st.subheader("CNN By Deep Learning")
 # Custom CSS for UI
 st.markdown("""
 <style>
