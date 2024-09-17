@@ -1,0 +1,6 @@
+streamlit
+transformers
+librosa
+numpy
+plotly
+torch
