@@ -61,7 +61,7 @@ Music Genre Classification is a project that uses machine learning algorithms to
 ## 💻 Technology Stack
 
 <p align="center">
-  <img src="https://your-image-url.com/tech-stack.png" alt="Technology Stack" width="70%"/>
+  <img src="https://github.com/Ahmad-Fakhar/Music-Ganre-Classification/blob/main/z/tech-stack-napkin-selection.png?raw=true" alt="Technology Stack" width="70%"/>
 </p>
 
 - 🚀 *Python*: Used for data preprocessing, feature extraction, and machine learning model implementation.
