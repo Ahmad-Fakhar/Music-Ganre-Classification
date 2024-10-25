@@ -31,7 +31,7 @@
 ## 🚀 About Music Genre Classification
 
 <p align="center">
-  <img src="https://github.com/your-username/music-genre-classification/blob/master/background.jpg" alt="Music Genre Classification Overview" width="80%"/>
+  <img src="https://github.com/Ahmad-Fakhar/Music-Ganre-Classification/blob/main/z/k-napkin-selection.png" alt="Music Genre Classification Overview" width="80%"/>
 </p>
 
 Music Genre Classification is a project that uses machine learning algorithms to classify music genres based on audio features. The goal is to develop a model that can accurately predict the genre of a song given its audio characteristics.
