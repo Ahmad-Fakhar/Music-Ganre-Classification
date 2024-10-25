@@ -121,19 +121,19 @@ python main.py
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://github.com/your-github-profile.png" width="120px;" alt="Your Name"/><br /><sub><b>Your Name</b><br></sub></a><br />
+      <a href="https://www.linkedin.com/in/muhammad-jawad-86507b201/"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGhdbU8hITDEA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709276424296?e=1735171200&v=beta&t=tcMsxG3gT82DWnYBHF-Aa-r2d6Kzd_qlU42fy18H81c" width="120px;" alt="Your Name"/><br /><sub><b>Muhammad Jawad</b><br></sub></a><br />
       <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
-      <a href="https://github.com/your-github-profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+      <a href="https://github.com/mj-awad17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
     </td>
      <td align="center">
-      <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://github.com/your-github-profile.png" width="120px;" alt="Your Name"/><br /><sub><b>Your Name</b><br></sub></a><br />
-      <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
-      <a href="https://github.com/your-github-profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
+      <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://media.licdn.com/dms/image/v2/D5603AQGna-FRibZYXw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710361402580?e=1735171200&v=beta&t=YPvVFqTssyjs8uh2QUwOFUTir0L5AfLrXW7-MCAP07A" width="120px;" alt="Your Name"/><br /><sub><b>Muhammad Ahmad Fakhar</b><br></sub></a><br />
+      <a href="https://www.linkedin.com/in/ahmad-fakhar-357742258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
+      <a href="https://github.com/Ahmad-Fakhar/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px"/></a>
     </td>
   </tr>
 </table>
 </div>
----
+
 
 ## 📄 License
 
