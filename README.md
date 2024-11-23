@@ -10,7 +10,7 @@
                -webkit-text-fill-color: transparent;
                font-size: 1.5em;
                font-weight: bold;">
-    Classifying Music Genres using Machine Learning
+    Classifying Music Genres using Deep Learning
   </span>
 </h3>
 
