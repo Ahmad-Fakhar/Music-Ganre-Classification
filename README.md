@@ -154,5 +154,3 @@ Music Genre Classification is open-source software licensed under the MIT licens
 
 </div>
 ```
-
-Note: You should replace your-username, your-linkedin-profile, your-github-profile, and your-image-url with your actual information.
